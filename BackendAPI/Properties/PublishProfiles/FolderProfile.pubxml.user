@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inperson training\BackendAPI\BackendAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-09-22T10:21:37.4349008Z;True|2022-09-22T15:08:57.6881813+05:30;True|2022-09-22T15:04:55.8698005+05:30;True|2022-09-22T15:00:23.5844798+05:30;True|2022-09-22T14:57:42.8536046+05:30;True|2022-09-22T14:53:31.5827924+05:30;True|2022-09-22T14:53:13.1716169+05:30;True|2022-09-22T14:45:54.1909091+05:30;True|2022-09-22T14:44:49.2520113+05:30;True|2022-09-22T14:25:20.2020519+05:30;</History>
+  </PropertyGroup>
+</Project>

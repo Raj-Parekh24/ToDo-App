@@ -1,0 +1,11 @@
+C:\inperson training\BackendAPI\BackendAPI\obj\Release\net6.0\PubTmp\Out\BackendAPI.exe
+C:\inperson training\BackendAPI\BackendAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\inperson training\BackendAPI\BackendAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\inperson training\BackendAPI\BackendAPI\obj\Release\net6.0\PubTmp\Out\BackendAPI.dll
+C:\inperson training\BackendAPI\BackendAPI\obj\Release\net6.0\PubTmp\Out\BackendAPI.deps.json
+C:\inperson training\BackendAPI\BackendAPI\obj\Release\net6.0\PubTmp\Out\BackendAPI.runtimeconfig.json
+C:\inperson training\BackendAPI\BackendAPI\obj\Release\net6.0\PubTmp\Out\BackendAPI.pdb
+C:\inperson training\BackendAPI\BackendAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\inperson training\BackendAPI\BackendAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\inperson training\BackendAPI\BackendAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\inperson training\BackendAPI\BackendAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
